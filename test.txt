@@ -1,2 +1,6 @@
 this is a change.
+<<<<<<< HEAD
 this is another change.
+=======
+alsdkfalsfdlkasjfdasfd
+>>>>>>> 8fa64db (change)
