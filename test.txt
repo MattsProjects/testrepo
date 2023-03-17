@@ -3,4 +3,9 @@ this is a change.
 this is another change.
 =======
 alsdkfalsfdlkasjfdasfd
+<<<<<<< HEAD
 >>>>>>> 8fa64db (change)
+=======
+this sifasdf afdlkasdfasdfasfdasdfadf
+
+>>>>>>> 325481b (yet another)
